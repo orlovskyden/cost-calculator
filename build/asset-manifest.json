@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cost-calculator/static/css/main.bbea7fef.css",
+    "main.js": "/cost-calculator/static/js/main.7448fed4.js",
+    "index.html": "/cost-calculator/index.html",
+    "main.bbea7fef.css.map": "/cost-calculator/static/css/main.bbea7fef.css.map",
+    "main.7448fed4.js.map": "/cost-calculator/static/js/main.7448fed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbea7fef.css",
+    "static/js/main.7448fed4.js"
+  ]
+}
