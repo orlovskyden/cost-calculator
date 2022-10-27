@@ -1,8 +1,5 @@
 # cost-calculator
 Cost calculator on React JS
-<p># cost-calculator<br>
-	<span style="font-size:x-large"><b>Cost calculator app on React JS</b></span></p>
-
 <ul>
 	<li><span style="font-size:x-large">Reusable functional React components, React-hooks (useState, useEffect).</span></li>
 	<li><span style="font-size:x-large">Add costs on a specific month and year</span></li>
@@ -12,8 +9,8 @@ Cost calculator on React JS
 
 <p>&nbsp;</p>
 
-<p><span style="font-size:x-large"><a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank"><b>Live site</b></a></span></p>
+<p><span style="font-size:x-large"><a href="https://orlovskyden.github.io/cost-calculator/" target="_blank"><b>Live site</b></a></span></p>
 
-<p><a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank"><img alt="thumbnail" src="https://web-lab./react-sushi-house-thumbnail.jpg" style="height:358px; margin:10px; width:700px"></a></p>
+<p><a href="https://orlovskyden.github.io/cost-calculator/" target="_blank"><img alt="thumbnail" src="https://servis24.top/assets/cost-calculator.jpg" style="height:463px; margin:10px; width:800px"></a></p>
 
 <p>&nbsp;</p>
