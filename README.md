@@ -8,8 +8,7 @@ Cost calculator on React JS
 </ul>
 
 <p>&nbsp;</p>
-
-<p><span style="font-size:x-large"><a href="https://orlovskyden.github.io/cost-calculator/" target="_blank"><b>Live site</b></a></span></p>
+<p><span style="font-size:x-large"><a href="https://orlovskyden.github.io/cost-calculator/" target="_blank"><b>Live app</b></a></span></p>
 
 <p><a href="https://orlovskyden.github.io/cost-calculator/" target="_blank"><img alt="thumbnail" src="https://servis24.top/assets/cost-calculator.jpg" style="height:463px; margin:10px; width:800px"></a></p>
 
